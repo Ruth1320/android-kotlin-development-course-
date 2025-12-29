@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">movies_list</string>
+    <string name="movie_title">%1$s (%2$d)</string>
+
+</resources>
